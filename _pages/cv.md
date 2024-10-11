@@ -13,7 +13,15 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Engineering, Yonsei University, 2025 (expected)
+* B.S. in Engineering, Yonsei University, March 2020 - February (Expected)
+  * **GPA:** 3.67/4.3
+  * **Class Rank:** 52/177
+  * **Coursework:**
+    - **Mathematics:** Algorithm Analysis
+    - **Basic CS:** Data Structures, Internet Programming, Software Engineering
+    - **System:** Computer System, Architecture of Computers, Information Security, Database Management System, System Programming
+    - **Machine Learning:** Machine Learning, Computer Vision, Reinforcement Learning, Big Data
+    - **HCI:** Human and Computer Interfaces
 
 Work experience
 ======
@@ -34,16 +42,21 @@ Work experience
 
 * Summer 2024: Intership
   * Yonsei University / RLLAB
-  * Supervisor: Professor Youngwoon Lee
-  
-<!-- Skills
+  * Advisor: Professor Youngwoon Lee
+  * Working on an ongoing project that targets to improve the performance of a Model-based RL algorithm with a dormant ratio minimization technique
+  * Finding a method to improve the performance of Hierarchical RL algorithm in a diverse way
+
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+ * **Dormant Ratio Minimization for Model-Based RL (on-going)**
+   * Course project for **Software Capstone Design(2)**
+   * Tools Used: Python, Pytorch
+  
+
+Skills
+======
+* **Programming Languages:** C, C++, Java, Python, Rust, Javascript, Bash
+* **Tools:** Pytorch, Tensorflow, JAX, Flax
 
 Publications
 ======
